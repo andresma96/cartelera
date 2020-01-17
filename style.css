@@ -82,3 +82,7 @@ body {
     display: flex;
     justify-content: center;
 }
+
+.iconos {
+    width: 45px;
+}
